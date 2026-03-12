@@ -1,0 +1,23 @@
+{
+    "backup_destination": "D:/Games",
+    "games": [
+        {
+            "name": "Ghost_Recon_Wildlands",
+            "path": "C:/ProgramData/Tom Clancy's Ghost Recon Wildlands",
+            "last_hash": "87a0164ec947a0a4e03d2635f65cc577",
+            "last_backup": "2026-03-12 20:17:37"
+        },
+        {
+            "name": "Ghost_Of_Tsushima",
+            "path": "C:/Users/K.G.S.Aman/Documents/Ghost of Tsushima DIRECTOR'S CUT",
+            "last_hash": "9938a74c00545217cfefb09a760ece53",
+            "last_backup": "2026-03-12 20:17:37"
+        },
+        {
+            "name": "EldenRing",
+            "path": "C:/Users/K.G.S.Aman/AppData/Roaming/EldenRing",
+            "last_hash": "5282ef9829b63854c8fcc0e8598e61ba",
+            "last_backup": "2026-03-12 20:17:37"
+        }
+    ]
+}
