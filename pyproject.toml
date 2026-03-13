@@ -1,0 +1,12 @@
+[project]
+name = "game-backup"
+version = "0.1.0"
+dependencies = []
+
+[project.scripts]
+# This maps the command 'game-backup' to the function 'run_backup' in 'backup_tool.py'
+game-backup = "backup_tool:run_backup"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
